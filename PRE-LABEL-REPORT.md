@@ -7,7 +7,7 @@
 ## 1. Thông tin bài làm và Provenance (Nguồn gốc)
 
 - **Mã bài làm / phòng:** `K4-DAY13-NguyenThiMy`
-- **Thành viên:** Nguyễn Thị Mỹ — xem [TEAMMATES.md](TEAMMATES.md) (đảm nhiệm toàn bộ các vai trò vận hành runner, phân tích số liệu và đánh giá chất lượng qua 3 lượt A/B/C).
+- **Thành viên:** Nguyễn Thị My — xem [TEAMMATES.md](TEAMMATES.md) (đảm nhiệm toàn bộ các vai trò vận hành runner, phân tích số liệu và đánh giá chất lượng qua 3 lượt A/B/C).
 - **Trạng thái thực thi:** `executed-by-group` (Tự chạy thành công trên máy cá nhân với Docker CPU bundle).
 - **Người thực sự chạy; ngày/giờ; hệ máy/architecture:** Nguyễn Thị Mỹ; 02/10/2026; Windows 11 x86_64 / Intel CPU.
 - **Image tag và image ID; phiên bản repo:** Image `day13-pointpillars:lc-20261001-amd64` (ID: `sha256:e03983bd922ec29890bf547db8de408402efd82583680b62e671c20da2fd2c82`); Phiên bản repo: `0831856d921609312d42c7582c366e5a311bb7b1`.
